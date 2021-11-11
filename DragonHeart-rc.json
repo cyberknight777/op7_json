@@ -1,0 +1,13 @@
+{
+  "kernel": {
+    "name": "DragonHeart",
+    "version": "rc1",
+    "link": "https://github.com/cyberknight777/op7_json/raw/master/DragonHeart-rc1.zip",
+    "changelog_url": "https://raw.githubusercontent.com/cyberknight777/op7_json/master/changelog.md",
+    "date": "2021-11-11",
+    "sha1": "0df587a3d57da53ffd87a805d3cc0a9f59b6d975"
+  },
+  "support": {
+    "link": "https://t.me/knightschat"
+  }
+}
