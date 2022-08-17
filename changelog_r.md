@@ -5,9 +5,13 @@ Type: Bleeding Edge
 Device: OnePlus 7/T/P
 Compiler: Eva GCC 12.1.1
 Branch: staging
-Build Number: r16b3
+Build Number: r16b3-hotfix
 ```
 ## Changelog
+**-r16b3-hotfix**
+
+* Fix offline charging.
+
 **-r16b3**
 
 * Roll back to r16.
