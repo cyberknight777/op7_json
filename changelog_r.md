@@ -5,9 +5,18 @@ Type: Bleeding Edge
 Device: OnePlus 7/T/P
 Compiler: Eva GCC 12.1.1
 Branch: staging
-Build Number: r16b3-hotfix
+Build Number: r16b4
 ```
 ## Changelog
+**-r16b4**
+
+* Grab a MGLRU fix.
+* CFQ tweaks.
+* Misc TCP tweaks.
+* Reverts done to fix DSOD completely (considering it seems to be a SCSI issue).
+* Enable GC for wakelocks.
+* Drop SLMK min reclaim.
+
 **-r16b3-hotfix**
 
 * Fix offline charging.

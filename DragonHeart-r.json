@@ -2,11 +2,11 @@
 {
   "kernel": {
   "name": "DragonHeart",
-  "version": "r16b3-hotfix",
-  "link": "https://github.com/cyberknight777/op7_json/releases/download/r16b3-hotfix/DragonHeart-op7-r16b3-hotfix.zip",
+  "version": "r16b4",
+  "link": "https://github.com/cyberknight777/op7_json/releases/download/r16b4/DragonHeart-op7-r16b4.zip",
   "changelog_url": "https://raw.githubusercontent.com/cyberknight777/op7_json/master/changelog_r.md",
-  "date": "2022-08-17",
-  "sha1": "3f7a589e2f9afd1fad8f5605cd0f1a56f0b28262"
+  "date": "2022-08-18",
+  "sha1": "e1dbb401d55c70852ee32d4b9054b4074af9b056"
   },
   "support": {
     "link": "https://t.me/knightschat"
