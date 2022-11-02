@@ -5,9 +5,21 @@ Type: Bleeding Edge
 Device: OnePlus 7/T/P
 Compiler: Eva GCC 12.1.1
 Branch: staging
-Build Number: r16b4
+Build Number: r16b5
 ```
 ## Changelog
+**-r16b5**
+
+* Reset hard to r16
+* Grab relevant improvements.
+* Grab PD / Passthrough fixes.
+* Grab FOD improvements from John.
+* Grab SSR fixes from John.
+* Nuke techpack/data to fix wlan perf.
+* Fix BSOD.
+* Nuke MGLRU.
+* Nuke slmk tunables.
+
 **-r16b4**
 
 * Grab a MGLRU fix.
