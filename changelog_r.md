@@ -3,11 +3,20 @@
 Kernel: DragonHeart Kernel
 Type: Bleeding Edge
 Device: OnePlus 7/T/P
-Compiler: Eva GCC 12.1.1
+Compiler: Eva GCC 12.2.1
 Branch: staging
-Build Number: r16b5
+Build Number: r16b6
 ```
 ## Changelog
+**-r16b6**
+
+* Grab all recent FOD improvements from John.
+* Update in-kernel LZ4 to v1.9.4
+* Fix crashdumps for ESOC devices permanently.
+* Increase rating of teo governor to 50.
+* Save power when connecting to an USB.
+* Disable QCOM download mode.
+
 **-r16b5**
 
 * Reset hard to r16
