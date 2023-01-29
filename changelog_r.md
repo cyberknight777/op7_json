@@ -5,9 +5,17 @@ Type: Bleeding Edge
 Device: OnePlus 7/T/P
 Compiler: Eva GCC 12.2.1
 Branch: staging
-Build Number: r16b6
+Build Number: r16b7
 ```
 ## Changelog
+**-r16b7**
+* Grab new CSC DC Dim implementation.
+* Implement new double tap attr for modernized DT2W.
+* Kill legacy double tap impl.
+* In-kernel handling for random crashy 7T adsp.
+* Import tuned dim lut for all variants.
+* Simplify double_tap_pressed handling
+
 **-r16b6**
 
 * Grab all recent FOD improvements from John.

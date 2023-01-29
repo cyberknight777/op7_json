@@ -2,11 +2,11 @@
 {
   "kernel": {
   "name": "DragonHeart",
-  "version": "r16b6",
-  "link": "https://github.com/cyberknight777/op7_json/releases/download/r16b6/DragonHeart-op7-r16b6.zip",
+  "version": "r16b7",
+  "link": "https://github.com/cyberknight777/op7_json/releases/download/r16b7/DragonHeart-op7-r16b7.zip",
   "changelog_url": "https://raw.githubusercontent.com/cyberknight777/op7_json/master/changelog_r.md",
-  "date": "2023-01-15",
-  "sha1": "9620a6860b15f36420dcf79ce58b366b5259d887"
+  "date": "2023-01-29",
+  "sha1": "c0fb75914732b0899cc0f6834780476bd237edbc"
   },
   "support": {
     "link": "https://t.me/knightschat"
