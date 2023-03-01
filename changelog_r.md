@@ -5,9 +5,21 @@ Type: Bleeding Edge
 Device: OnePlus 7/T/P
 Compiler: Eva GCC 12.2.1
 Branch: staging
-Build Number: r16b7
+Build Number: r16b8
 ```
 ## Changelog
+**-r16b8**
+* Upgrade ZSTD to latest upstream v1.5.4.
+* Add per-cpu threads for decompression in EROFS for better app launches and boot time.
+* Set scheduler to use SCHED_RR at high priority for lower latency.
+* Drop deprecated check for A12 ROMs
+* FOD optimizations from John.
+* Inline FP/TS drivers.
+* Re-add display partial updates.
+* Correct 60hz fod down timing.
+* Decrease min brightness on AOD.
+* Misc optimizations.
+
 **-r16b7**
 * Grab new CSC DC Dim implementation.
 * Implement new double tap attr for modernized DT2W.
